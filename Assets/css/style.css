@@ -39,3 +39,25 @@ li > a {
     font-size: 18px;
     font-weight: 400;
 }
+
+section > h3 {
+  margin: 0 0 40px 0;
+}
+
+section {
+  padding: 60px 80px;
+}
+
+#about > p {
+  width: 60%;
+  float: right;
+}
+
+#about > div {
+  width: 40%;
+  display: inline-block;
+}
+
+#about > div> img {
+  width: 90%
+}
