@@ -29,8 +29,8 @@ header > ul {
 }
 
 ul > li {
-    float: left;
     margin: 0 5px;
+    display: inline;
 }
 
 li > a {
